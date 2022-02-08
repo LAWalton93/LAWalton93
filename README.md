@@ -1,4 +1,4 @@
-- My name is @LAWalton93 and I’m working on bycatch risk modelling in an Australian tuna longline fishery
+- My name is @LAWalton93 and I’m working on bycatch risk modelling in AFMA's tuna longline fishery
 
 <!---
 LAWalton93/LAWalton93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
